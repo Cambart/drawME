@@ -1,0 +1,8 @@
+
+rsquid:S1450"VRemove the "mSquare" field and declare it as a local variable in the relevant methods.(ö’ì÷8žÇìƒë,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Âæ»×úÿÿÿÿ8Ôºñƒë,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ú–àÕ8œ½ïƒë,
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ú»Çì8žÇìƒë,
+Gsquid:S1068"+Remove this unused "mSquare" private field.(ö’ì÷8žÇìƒë,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ü±«º8žÇìƒë,
+…"squid:ClassVariableVisibilityCheck"RMake mAngle a static final constant or non-public and provide accessors if needed.(„¤Üô8žÇìƒë,

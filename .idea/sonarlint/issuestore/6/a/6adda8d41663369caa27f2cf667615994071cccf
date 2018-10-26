@@ -1,0 +1,11 @@
+
+wsquid:S1450"[Remove the "mColorHandle" field and declare it as a local variable in the relevant methods.(ŸåŠÞ8Ï”±ƒë,
+=squid:S1170"!Make this final field static too.(¢è¤å8Èò²ƒë,
+Bsquid:S1170"!Make this final field static too.(Âëûäÿÿÿÿÿ8Ï”±ƒë,
+Bsquid:S1170"!Make this final field static too.(ö¶ˆýþÿÿÿÿ8Ï”±ƒë,
+|squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èëðÖÿÿÿÿÿ8Ï”±ƒë,
+=squid:S1170"!Make this final field static too.(©ÔŒÑ8Ï”±ƒë,
+Ysquid:S1197"8Move the array designator from the variable to the type.(ôÙ×·ûÿÿÿÿ8Ï”±ƒë,
+squid:S1450"^Remove the "mPositionHandle" field and declare it as a local variable in the relevant methods.(÷¸âµýÿÿÿÿ8Ï”±ƒë,
+Tsquid:S1197"8Move the array designator from the variable to the type.(îóèË8Ï”±ƒë,
+zsquid:S1450"_Remove the "mMVPMatrixHandle" field and declare it as a local variable in the relevant methods.(®ýðV8Î˜µƒë,
